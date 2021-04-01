@@ -2,15 +2,19 @@
   box-sizing: border-box;
 }
 
-h1 {
-  background-color: pink;
-}
-
-h1 {
-  font-size: 90px;
+body {
+  font-family: "Merriweather", serif;
 }
 
 p {
-  background-color: red;
-  border: 5px red solid;
+  font-weight: 400;
 }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+}
+
