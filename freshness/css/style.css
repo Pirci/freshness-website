@@ -18,3 +18,39 @@ h6 {
   font-weight: 700;
 }
 
+#header_area {
+  border-top: 5px solid #3bafbe;
+  border-bottom: 1px solid #ddd;
+  padding: 20px 0;
+}
+
+.social_area {
+  width: 100%;
+  clear: both;
+}
+
+.social_area ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.social_area ul li {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.social_area ul li a {
+  background: #1f1f1f;
+  width: 35px;
+  height: 35px;
+  color: white;
+  display: block;
+  text-align: center;
+  padding-top: 5px;
+  border-radius: 50%;
+}
+
+.social_area ul li a:hover {
+  background: #ee802f;
+}
