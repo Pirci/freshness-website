@@ -18,6 +18,15 @@ h6 {
   font-weight: 700;
 }
 
+a {
+  transition: 0.5s;
+}
+
+input[type:submit] {
+  cursor: pointer;
+  transition: 0.5s;
+}
+
 #header_area {
   border-top: 5px solid #3bafbe;
   border-bottom: 1px solid #ddd;
@@ -27,6 +36,7 @@ h6 {
 .social_area {
   width: 100%;
   clear: both;
+  margin-bottom: 20px;
 }
 
 .social_area ul {
@@ -49,8 +59,60 @@ h6 {
   text-align: center;
   padding-top: 5px;
   border-radius: 50%;
+  transition: 0.5s;
 }
 
 .social_area ul li a:hover {
   background: #ee802f;
+}
+
+.search_area {
+  text-align: right;
+  width: 100%;
+  clear: both;
+  margin-bottom: 22px;
+}
+
+.search_area input {
+  background: #333333;
+  color: #fff;
+  border: 0px solid;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.search_area input[type="submit"] {
+  background: #3bafbe;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.search_area input[type="submit"]:hover {
+  background: #ee802f;
+}
+
+#main_menu {
+  text-align: right;
+}
+
+#main_menu ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#main_menu ul li {
+  display: inline-block;
+}
+
+#main_menu ul li a {
+  display: block;
+  font-size: 14px;
+  color: #999999;
+  text-decoration: none;
+  padding: 5px 15px;
+}
+
+#main_menu ul li a:hover {
+  color: #3bafbe;
 }
