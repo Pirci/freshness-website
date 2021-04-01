@@ -22,11 +22,6 @@ a {
   transition: 0.5s;
 }
 
-input[type:submit] {
-  cursor: pointer;
-  transition: 0.5s;
-}
-
 #header_area {
   border-top: 5px solid #3bafbe;
   border-bottom: 1px solid #ddd;
