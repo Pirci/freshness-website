@@ -128,4 +128,46 @@ a {
   height: auto;
 }
 
+.banner_text {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
 
+.banner_table {
+  display: table;
+  height: 100%;
+  width: 100%;
+}
+
+.banner_align {
+  display: table-cell;
+  height: 100%;
+  vertical-align: middle;
+  width: 100%;
+}
+
+.banner_textarea {
+  margin: 0 auto;
+  width: 1170px;
+}
+
+.main_banner {
+  float: right;
+  width: 50%;
+}
+
+.main_banner a {
+  background: #3bafbe none repeat scroll 0 0;
+  border-radius: 25px;
+  color: #fff;
+  display: inline-block;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+.main_banner a:hover {
+  background: #262626 none repeat scroll 0 0;
+}
