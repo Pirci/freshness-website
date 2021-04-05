@@ -112,4 +112,20 @@ a {
   color: #3bafbe;
 }
 
+#banner_area {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+#banner_area .item {
+  width: 100%;
+  overflow: hidden;
+}
+
+#banner_area .item img {
+  width: 40%;
+  height: auto;
+}
+
 
