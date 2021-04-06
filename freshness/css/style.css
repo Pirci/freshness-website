@@ -22,6 +22,19 @@ a {
   transition: 0.5s;
 }
 
+a.readmore {
+  background: #3bafbe none repeat scroll 0 0;
+  border-radius: 25px;
+  color: #fff;
+  display: inline-block;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+a.readmore:hover {
+  background: #262626 none repeat scroll 0 0;
+}
+
 #header_area {
   border-top: 5px solid #3bafbe;
   border-bottom: 1px solid #ddd;
@@ -159,19 +172,6 @@ a {
   width: 50%;
 }
 
-.main_banner a {
-  background: #3bafbe none repeat scroll 0 0;
-  border-radius: 25px;
-  color: #fff;
-  display: inline-block;
-  padding: 10px 20px;
-  text-decoration: none;
-}
-
-.main_banner a:hover {
-  background: #262626 none repeat scroll 0 0;
-}
-
 .bx-wrapper .bx-controls-direction a {
   display: none;
 }
@@ -193,4 +193,3 @@ a {
   height: 20px;
   border-radius: 50%;
 }
-
