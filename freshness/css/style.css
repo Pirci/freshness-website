@@ -171,3 +171,26 @@ a {
 .main_banner a:hover {
   background: #262626 none repeat scroll 0 0;
 }
+
+.bx-wrapper .bx-controls-direction a {
+  display: none;
+}
+
+.bx-wrapper .bx-pager {
+  text-align: right;
+}
+
+.bx-wrapper .bx-pager.bx-default-pager a:hover,
+.bx-wrapper .bx-pager.bx-default-pager a.active,
+.bx-wrapper .bx-pager.bx-default-pager a:focus {
+  background: #3bafbe;
+}
+
+.bx-wrapper .bx-pager.bx-default-pager a {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+  border: 4px solid #3bafbe;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+
