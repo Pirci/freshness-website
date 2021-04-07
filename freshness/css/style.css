@@ -318,3 +318,18 @@ a.readmore:hover {
 #footer_area input {
   margin-bottom: 12px;
 }
+
+#copyright {
+  width: 100%;
+  background: #1a1a1a;
+  padding: 20px 0;
+  color: #fff;
+}
+
+#copyright p {
+  margin: 0;
+}
+
+#copyright .col-md-6:last-child {
+  text-align: right;
+}
