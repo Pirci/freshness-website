@@ -246,7 +246,6 @@ a.readmore:hover {
 #service_area .col-md-4 {
   margin-bottom: 15px;
   line-height: 1.4em;
-
 }
 
 #service_area .col-md-4 img {
@@ -269,4 +268,49 @@ a.readmore:hover {
 #service_area .col-md-4 p {
   font-size: 12px;
   margin-bottom: 0;
-} 
+}
+
+#footer_area {
+  background: #252525;
+  padding: 40px 0;
+  color: #fff;
+}
+
+#footer_area h3 {
+  font-size: 20px;
+  padding-bottom: 15px;
+}
+
+#footer_area ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#footer_area ul li {
+  display: block;
+  margin-bottom: 5px;
+  cursor: pointer;
+  border-bottom: 1px solid #2c2c2c;
+}
+
+#footer_area ul li a {
+  color: #3bafbe;
+  padding-bottom: 5px;
+}
+
+#footer_area .contact a {
+  color: #3bafbe;
+}
+
+#footer_area .links ul {
+  color: #3bafbe;
+}
+
+#footer_area .blog li {
+  color: #999999;
+}
+
+#footer_area .blog li:last-child {
+  color: #3bafbe;
+}
