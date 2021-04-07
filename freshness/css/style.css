@@ -225,7 +225,7 @@ a.readmore:hover {
   font-size: 13px;
 }
 
-.container .readmore {
+.container-fluid .readmore {
   font-size: 11px;
 }
 
@@ -313,4 +313,8 @@ a.readmore:hover {
 
 #footer_area .blog li:last-child {
   color: #3bafbe;
+}
+
+#footer_area input {
+  margin-bottom: 12px;
 }
