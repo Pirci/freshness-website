@@ -4,10 +4,15 @@
 
 body {
   font-family: "Merriweather", serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.6em;
 }
 
 p {
   font-weight: 400;
+  margin-bottom: 15px;
+  color: #999999;
 }
 h1,
 h2,
@@ -16,6 +21,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
+  margin-bottom: 15px;
 }
 
 a {
@@ -24,10 +30,10 @@ a {
 
 a.readmore {
   background: #3bafbe none repeat scroll 0 0;
-  border-radius: 25px;
+  border-radius: 10px;
   color: #fff;
   display: inline-block;
-  padding: 10px 20px;
+  padding: 5px 10px;
   text-decoration: none;
 }
 
@@ -139,6 +145,7 @@ a.readmore:hover {
 #banner_area .item img {
   width: 40%;
   height: auto;
+  padding-left: 1%;
 }
 
 .banner_text {
@@ -172,6 +179,10 @@ a.readmore:hover {
   width: 50%;
 }
 
+.main_banner h3 {
+  font-size: 42px;
+}
+
 .bx-wrapper .bx-controls-direction a {
   display: none;
 }
@@ -192,4 +203,28 @@ a.readmore:hover {
   width: 20px;
   height: 20px;
   border-radius: 50%;
+}
+
+#intro {
+  padding: 10px 0px;
+}
+
+#intro img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+#intro h3 {
+  font-size: 16px;
+  color: #4a4a4a;
+}
+
+#intro p {
+  font-size: 13px;
+}
+
+.container .readmore {
+  font-size: 11px;
 }
