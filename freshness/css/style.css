@@ -1,3 +1,7 @@
+/* ===========================================
+Common Style
+=========================================== */
+
 * {
   box-sizing: border-box;
 }
@@ -344,8 +348,16 @@ a.readmore:hover {
   padding: 0;
   margin: 0;
 }
-.slicknav_menu {
-  display: none;
+#intro .col-md-4 {
+  padding: 5%;
+}
+
+#service_area .col-md-4 {
+  padding: 5%;
+}
+
+#footer_area {
+  padding: 3%;
 }
 
 @media only screen and (min-width: 200px) and (max-width: 768px) {
@@ -361,11 +373,28 @@ a.readmore:hover {
   #header_area .col-md-9 {
     display: none;
   }
-  .js #menu {
-    display: none;
+  .banner_textarea {
+    width: 90%;
+  }
+  .main_banner {
+    width: 80%;
+  }
+  #intro .col-md-4 {
+    margin: 20px;
+  }
+  #footer_area .col-md-3 {
+    margin-bottom: 20px;
+  }
+  #footer_area input {
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  #footer_area input[type="submit"] {
+    width: 150px;
   }
 
-  .js .slicknav_menu {
-    display: block;
+  #copyright .col-md-6:last-child {
+    text-align: left;
+    margin-top: 10px;
   }
 }
