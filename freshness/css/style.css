@@ -2,9 +2,10 @@
   box-sizing: border-box;
 }
 
-html, body {
-    max-width: 100%;
-    overflow-x: hidden;
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
 body {
@@ -319,7 +320,6 @@ a.readmore:hover {
 #footer_area .blog li:last-child {
   color: #3bafbe;
 }
-
 
 #footer_area input {
   margin-bottom: 12px;
