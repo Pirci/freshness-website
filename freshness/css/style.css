@@ -344,15 +344,28 @@ a.readmore:hover {
   padding: 0;
   margin: 0;
 }
+.slicknav_menu {
+  display: none;
+}
 
-/* #footer_area .container-fluid {
-  display: flex;
-  flex-wrap: wrap;
-  background-color: pink;
-  color: pink;
-} */
+@media only screen and (min-width: 200px) and (max-width: 768px) {
+  .social_area ul {
+    text-align: center;
+  }
+  .logo {
+    float: none;
+    margin: 0 auto 20px;
+    text-align: center;
+    width: 200px;
+  }
+  #header_area .col-md-9 {
+    display: none;
+  }
+  .js #menu {
+    display: none;
+  }
 
-/* #footer_area .newsletter {
-  padding-right: 0px !important;
-} */
-
+  .js .slicknav_menu {
+    display: block;
+  }
+}
