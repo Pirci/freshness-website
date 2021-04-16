@@ -2,7 +2,7 @@
 
 Converting a Photoshop file (PSD) to HyperText Markup Language (HTML).
 
-# Websites create mobile first design approach.
+Websites create mobile first design approach.
 
 
 
