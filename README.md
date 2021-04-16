@@ -1,4 +1,4 @@
-# PSD to HTML using bootstrap 4 
+# PSD to HTML using Bootstrap 4 
 
 Converting a Photoshop file (PSD) to HyperText Markup Language (HTML).
 
