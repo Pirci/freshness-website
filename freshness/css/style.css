@@ -201,8 +201,10 @@ Banner Style
 }
 
 .main_banner {
-  float: right;
-  width: 50%;
+  margin-left: 40%;
+max-width: 400px;
+margin-right: 10%;
+font-size: 1em;
 }
 
 .main_banner h3 {
