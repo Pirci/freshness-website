@@ -383,6 +383,7 @@ Footer Area Style
   background: #3bafbe;
   cursor: pointer;
   transition: 0.5s;
+  padding: 5px;
 }
 
 #footer_area input[type="submit"]:hover {
