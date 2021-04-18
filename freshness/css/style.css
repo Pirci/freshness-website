@@ -202,9 +202,9 @@ Banner Style
 
 .main_banner {
   margin-left: 40%;
-max-width: 400px;
-margin-right: 10%;
-font-size: 1em;
+  max-width: 400px;
+  margin-right: 10%;
+  font-size: 1em;
 }
 
 .main_banner h3 {
