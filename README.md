@@ -5,11 +5,6 @@
 Websites create mobile first design approach. A few javascript syntax was also used while creating the project.
 
 
-## Live Demo
-
-Preview: https://pirci.github.io/freshness-website/
-
-![freshness_website](https://user-images.githubusercontent.com/43238947/114980296-89d54e80-9e8c-11eb-8777-2f34ae3a96bc.png)
 
 
 ## What I Learned:
@@ -29,3 +24,10 @@ Preview: https://pirci.github.io/freshness-website/
 - Cleaner code
 - Use more semantic elements
 - Formatting could be improved when viewing on certain devices/browsers
+
+
+## Live Demo
+
+Preview: https://pirci.github.io/freshness-website/
+
+![freshness_website](https://user-images.githubusercontent.com/43238947/114980296-89d54e80-9e8c-11eb-8777-2f34ae3a96bc.png)
