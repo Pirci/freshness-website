@@ -1,5 +1,5 @@
 # PSD to HTML
-###  Using Bootstrap 4 
+###  via Bootstrap 4 
 
 > Creating a website by installing the psd file design from scratch. The goal is to build website according to original dimensions from design file. 
 Websites create mobile first design approach. A few javascript syntax was also used while creating the project.
