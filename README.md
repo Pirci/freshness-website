@@ -4,6 +4,11 @@
 > Creating a website by installing the psd file design from scratch. The goal is to build website according to original dimensions from design file. 
 Websites create mobile first design approach. A few javascript syntax was also used while creating the project.
 
+## Live Demo
+
+Preview: https://pirci.github.io/freshness-website/
+
+![freshness_website](https://media.giphy.com/media/9EGFSipyyIWWVWJxAw/giphy.gif)
 
 
 
@@ -26,8 +31,3 @@ Websites create mobile first design approach. A few javascript syntax was also u
 - Formatting could be improved when viewing on certain devices/browsers
 
 
-## Live Demo
-
-Preview: https://pirci.github.io/freshness-website/
-
-![freshness_website](https://user-images.githubusercontent.com/43238947/114980296-89d54e80-9e8c-11eb-8777-2f34ae3a96bc.png)
