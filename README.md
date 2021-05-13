@@ -8,7 +8,7 @@ Websites create mobile first design approach. A few javascript syntax was also u
 
 Preview: https://pirci.github.io/freshness-website/
 
-![freshness_website](https://media.giphy.com/media/9EGFSipyyIWWVWJxAw/giphy.gif)
+![freshness_website](demo.gif)
 
 
 
