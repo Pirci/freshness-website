@@ -29,4 +29,4 @@ Preview: https://pirci.github.io/freshness-website/
 - Use more semantic elements
 - Formatting could be improved when viewing on certain devices/browsers
 
-
+> Any type of suggestions/improvements to this repo are always welcome.
